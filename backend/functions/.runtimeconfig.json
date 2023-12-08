@@ -1,0 +1,5 @@
+{
+  "mongodb": {
+    "uri": "mongodb+srv://Karinam:hellosql@cluster0.eunhxhq.mongodb.net/shoutouts?retryWrites=true&w=majority"
+  }
+}
